@@ -16,9 +16,13 @@ h3 {
 }
 
 p {
+  margin: 5px;
+  padding: 8px;
   font-family: 'Karla', sans-serif;
   background-color: lightgrey;
   color: white;
+  border: 3px solid white;
+  border-radius: 50px 50px 50px 50px;
 }
 
 .true-orange {
