@@ -15,6 +15,12 @@ h3 {
   color: white;
 }
 
+p {
+  font-family: 'Karla', sans-serif;
+  background-color: lightgrey;
+  color: white;
+}
+
 .true-orange {
 font-family: 'Karla', sans-serif;
 background-color: #ff9933;
