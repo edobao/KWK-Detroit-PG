@@ -1,0 +1,50 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+ font-family: 'Dosis', sans-serif;
+ background-color: #ff9933;
+ color: white;
+}
+
+h3 {
+  font-family: 'Karla', sans-serif;
+  background-color: lightgrey;
+  color: white;
+}
+
+.true-orange {
+font-family: 'Karla', sans-serif;
+background-color: #ff9933;
+color: white;
+  }
+
+.orange-chicken {
+  font-family: 'Karla', sans-serif;
+  background-color: #ff9933;
+  color: white;
+    }
+
+  .cheetos {
+    font-family: 'Karla', sans-serif;
+    background-color: #ff9933;
+    color: white;
+  }
+
+  .orange-characters {
+    font-family: 'Karla', sans-serif;
+    background-color: #ff9933;
+    color: white;
+  }
+
+  .autumn {
+    font-family: 'Karla', sans-serif;
+    background-color: #ff9933;
+    color: white;
+  }
+
+  img {
+    height: 240px;
+    width: 160px;
+  }
